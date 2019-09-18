@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentMoviecatalogue</string>
+    <string name="Name">Name</string>
+    <string name="details_title">Tittle</string>
+    <string name="details_description">Description</string>
+    <string name="details_title_tv">TvShow Tittle</string>
+    <string name="details_description_tv">Description Tv</string>
+    <string name="Number">Number</string>
+</resources>
